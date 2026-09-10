@@ -40,7 +40,7 @@ try:
                 
                 # Pick a random template file (1, 2, or 3)
                 random_digit = random.randint(1, 3)
-                template_path = f"{TEMPLATE_DIR}\letter_{random_digit}.txt"
+                template_path = f"{TEMPLATE_DIR}/letter_{random_digit}.txt"
                 
                 try:
                     # Open and read the template
