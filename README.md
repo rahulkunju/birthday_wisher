@@ -1,4 +1,4 @@
-# Run Your Python Script Daily (Free!)
+# Run Your Python Script Daily
 
 This template runs your Python script automatically using GitHub Actions.
 
